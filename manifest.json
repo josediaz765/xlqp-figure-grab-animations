@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "scope": "Figure Grab animations only",
+  "files": [
+    {
+      "path": "paired/embedded-pairs.json",
+      "bytes": 277716,
+      "sha256": "f7417ff604e16c5de40ec393c2cbd5a015a8ca2ce87dc2fc8eee10867ecbbd10"
+    },
+    {
+      "path": "paired/models/Arch shots Female.rbxm",
+      "bytes": 3233,
+      "sha256": "102222fea25cd14d3aa994d7e9ccac0f4ed785850e69bc55f717b031b2b8bd52"
+    },
+    {
+      "path": "paired/models/Arch shots male.rbxm",
+      "bytes": 3804,
+      "sha256": "506588e8195fe3f4e7e455f80758c9119cdd15f3c8198a23a4a6f1026a91cb02"
+    },
+    {
+      "path": "paired/models/Arm Hold Doggy Female.rbxm",
+      "bytes": 112932,
+      "sha256": "d517c0e0ba51d5029704ab6c5b575b85c30a2921e5c1360967677a53929a6bc2"
+    },
+    {
+      "path": "paired/models/Arm Hold Doggy male.rbxm",
+      "bytes": 88116,
+      "sha256": "7e3cf1284e43e435556fbbc44ced94fdcec789320684ccaca722e5a57568e7a2"
+    },
+    {
+      "path": "paired/models/AxnAssSpank1 Female.rbxm",
+      "bytes": 24903,
+      "sha256": "41e6ee7c45c379c86c64cfaf58ca76d8f20be227d3daaf697189bb5bbbbd50e0"
+    },
+    {
+      "path": "paired/models/AxnAssSpank1 male.rbxm",
+      "bytes": 20810,
+      "sha256": "786889eab4019a0c3d6e5a64644df9b94e4a2b31eda316cfface5623accc5975"
+    },
+    {
+      "path": "paired/models/AxnDoggySpank Female.rbxm",
+      "bytes": 11918,
+      "sha256": "7013dea2196921488d4cfc0ab8fe582e6abcd7232e5ef71f6667a8bc5df7bc53"
+    },
+    {
+      "path": "paired/models/AxnDoggySpank male.rbxm",
+      "bytes": 19664,
+      "sha256": "e703853d8a0553372d48e48c5601351aa362317d9cae3b3cb3664e1cd03eeb7c"
+    },
+    {
+      "path": "paired/models/Back Shots Female.rbxm",
+      "bytes": 3498,
+      "sha256": "5432af65be1890c0e4b5532cfc00fcf8880bb6c0b459fcd1272be2f654cd4202"
+    },
+    {
+      "path": "paired/models/Back Shots male.rbxm",
+      "bytes": 3755,
+      "sha256": "6d1950d7ccaf88b4b97da8b42d225401b3cfd1d5ebff8aa450c726692b23f818"
+    },
+    {
+      "path": "paired/models/BackThrust Female.rbxm",
+      "bytes": 100068,
+      "sha256": "086ef2e3973cfbe8d540633f2abc2fc1c437999f8394a38d726675219912723d"
+    },
+    {
+      "path": "paired/models/BackThrust male.rbxm",
+      "bytes": 53384,
+      "sha256": "5f72d190c1a4ca2af2149ab1e37d37b38e295a7ac949cf315f7b977562567524"
+    },
+    {
+      "path": "paired/models/BackwardsStretch Female.rbxm",
+      "bytes": 21060,
+      "sha256": "1f301bff66a883eb79bd1e14621ac95a0dd9bf722873a2d53cd61c4523894656"
+    },
+    {
+      "path": "paired/models/BackwardsStretch male.rbxm",
+      "bytes": 17787,
+      "sha256": "8eb445e48baf82880327e1125572e0698d06c287a1cb9426d6793bfbed3a1276"
+    },
+    {
+      "path": "paired/models/Bed LayPound Female.rbxm",
+      "bytes": 19943,
+      "sha256": "8d4b02baf388ab6de55c52306f50f516bceecc515bed854cb016061669eb43b9"
+    },
+    {
+      "path": "paired/models/Bed LayPound male.rbxm",
+      "bytes": 19749,
+      "sha256": "e949d5442da3489fe630da5cd123064634e952285ad32b79635b24345dbc17ee"
+    },
+    {
+      "path": "paired/models/CarryFloor Female.rbxm",
+      "bytes": 3638,
+      "sha256": "c7c943c18606cff0d0bf6b6303214c2d2fe08361bdda42d91a06e4ba588156ef"
+    },
+    {
+      "path": "paired/models/CarryFloor male.rbxm",
+      "bytes": 3616,
+      "sha256": "f609719eb5afdc96efc220959666d57ea9f595b7c07cba966c18b156d8c96b90"
+    },
+    {
+      "path": "paired/models/CarryShowOff Female.rbxm",
+      "bytes": 93595,
+      "sha256": "96cf50d179073e400e06bb4f054fdb68ff4015f094f89e38707e9258e466dc67"
+    },
+    {
+      "path": "paired/models/CarryShowOff male.rbxm",
+      "bytes": 71079,
+      "sha256": "cd1d76705687c6ee3d53d29dcce3d266847c3091f219dfa351c4c9b02362e668"
+    },
+    {
+      "path": "paired/models/ChokeMissionary Female.rbxm",
+      "bytes": 26249,
+      "sha256": "a9af68486635bbf86ff8429ba810acd622d0b782bf4e8188ade224bca5b498ec"
+    },
+    {
+      "path": "paired/models/ChokeMissionary male.rbxm",
+      "bytes": 29369,
+      "sha256": "a55569641d4f9f929227e8498128687203a1f8a809fd4e39cc75c45b99a397fa"
+    },
+    {
+      "path": "paired/models/DeepBounce Female.rbxm",
+      "bytes": 3568,
+      "sha256": "df094367fe882eaf6a5e0f21c2d8a93a0abbdc024bd857703aa5471608d58d4d"
+    },
+    {
+      "path": "paired/models/DeepBounce male.rbxm",
+      "bytes": 3848,
+      "sha256": "79ebbd100dfa949be1990abc9be7a2cfbb782ef9f9d0a99c163b6f4b2f06999c"
+    },
+    {
+      "path": "paired/models/Deepthroating Blow Female.rbxm",
+      "bytes": 3660,
+      "sha256": "36444eb504e5daa1afa8a4d4b77dd7d014d2b4c01528ab7db6423e0864e723dc"
+    },
+    {
+      "path": "paired/models/Deepthroating Blow male.rbxm",
+      "bytes": 4442,
+      "sha256": "28f88ce6bfeeef2690bd3abf3e2b01aed3904d5554de1413db3f952734bb152c"
+    },
+    {
+      "path": "paired/models/DoggyPush Female.rbxm",
+      "bytes": 13957,
+      "sha256": "101fac0c9b013ddedc5a17ed8cf23da62273f73df01be5a7f12e99d92fe12105"
+    },
+    {
+      "path": "paired/models/DoggyPush male.rbxm",
+      "bytes": 13477,
+      "sha256": "e6b44a4d7df9858a3045f49eef7ecaae113a72a0125cc91f3b7386438a06594e"
+    },
+    {
+      "path": "paired/models/Facefuck Female.rbxm",
+      "bytes": 20873,
+      "sha256": "800d484da54cfe39e095f90072a75552089f1860468feef99088a7a682763c67"
+    },
+    {
+      "path": "paired/models/Facefuck male.rbxm",
+      "bytes": 18457,
+      "sha256": "ce18a3ce063f2eb667fa5ffea3b1796fbb57ed99a088c5dfbf25f2f9c2eb1237"
+    },
+    {
+      "path": "paired/models/Grab Doggy Female.rbxm",
+      "bytes": 31644,
+      "sha256": "c16683052b42aad8e4ce42afafaab655976f486f3f07c0a1d7ed8fc29fcfa9a5"
+    },
+    {
+      "path": "paired/models/Grab Doggy male.rbxm",
+      "bytes": 33673,
+      "sha256": "57bd838b3d156258b1263f463b56c8ed8bfce3b7310367ac7d80320a9a463316"
+    },
+    {
+      "path": "paired/models/Headgrab Female.rbxm",
+      "bytes": 19588,
+      "sha256": "e63b355cda180de9829f4707801025ca7cd8d4e63629b5166cb8d87ed211d3af"
+    },
+    {
+      "path": "paired/models/Headgrab male.rbxm",
+      "bytes": 22717,
+      "sha256": "49edb55536d8d8db17b1dc3526ad0128dab4fb0cc424fa068e3a080737eddf7b"
+    },
+    {
+      "path": "paired/models/HeadHeldBJ Female.rbxm",
+      "bytes": 14474,
+      "sha256": "a6e8052e618025e5156b0cc4e7704063260a046e693713e7f82176489d670da5"
+    },
+    {
+      "path": "paired/models/HeadHeldBJ male.rbxm",
+      "bytes": 15059,
+      "sha256": "d9415bf6449309c5b1b5d40472d38bf7c54220711da0fbb8eb60b1d17e4fbb15"
+    },
+    {
+      "path": "paired/models/HeldBakery Female.rbxm",
+      "bytes": 17197,
+      "sha256": "9281627394a1df577b4dd2f1af5d72d7131177f1ff313f6def80d831655de9b8"
+    },
+    {
+      "path": "paired/models/HeldBakery male.rbxm",
+      "bytes": 11939,
+      "sha256": "360de7bfc38d837d2110d2a4934ea111d8dd40daf6ce17670d49ca8d4accfdb7"
+    },
+    {
+      "path": "paired/models/LeanBJ Female.rbxm",
+      "bytes": 31983,
+      "sha256": "fa1071e66c26ec8aa4c6c5ebd8f0de8ff8bb301a3af64011dd86518ecb964f2a"
+    },
+    {
+      "path": "paired/models/LeanBJ male.rbxm",
+      "bytes": 32046,
+      "sha256": "b65a58ec7b0a50d81c20430e653321908951b24179794999220f90460bd97400"
+    },
+    {
+      "path": "paired/models/MouthHeldDoggy Female.rbxm",
+      "bytes": 12136,
+      "sha256": "e4ed0d42a470fcaa8ab37f42da089a55a88175a7a05c4671c16cb43ff81f52d0"
+    },
+    {
+      "path": "paired/models/MouthHeldDoggy male.rbxm",
+      "bytes": 14443,
+      "sha256": "1d5a90d8b3463b8b97cf5b0eba1e9a9dbb472d0e27e5845194603f469c29815a"
+    },
+    {
+      "path": "paired/models/Neck Hold Female.rbxm",
+      "bytes": 25706,
+      "sha256": "c0e8aad67270fce78ef3c5b38767b851600ebe8a1c6c805a7f28adf0e170674d"
+    },
+    {
+      "path": "paired/models/Neck Hold male.rbxm",
+      "bytes": 21660,
+      "sha256": "3c1a93768ece5f827e17978c4edf41c209ebe2d976574bca5348a4013f9449cd"
+    },
+    {
+      "path": "paired/models/RUI Deepthroat Female.rbxm",
+      "bytes": 15696,
+      "sha256": "8dd6831bded42f8822e5149550fcfb60128089ff5b61e5f392cb3705ae3da7e7"
+    },
+    {
+      "path": "paired/models/RUI Deepthroat male.rbxm",
+      "bytes": 11107,
+      "sha256": "35a646d19e27d6e07afa0e9012e0b36fce41b87c041fd02f5e6171954715f40e"
+    },
+    {
+      "path": "paired/models/RUI WALl Rape Female.rbxm",
+      "bytes": 4803,
+      "sha256": "b2cfb88f7f3974223f791fbf09854a0e72f1f40ce8dc0aedf1d9e7fc035b5d46"
+    },
+    {
+      "path": "paired/models/RUI WALl Rape male.rbxm",
+      "bytes": 4243,
+      "sha256": "d61f469011288706b8baca3abe3d5e830a1501b33d73c31595eae8ce788dd4d8"
+    },
+    {
+      "path": "paired/models/Skillful BJ Female.rbxm",
+      "bytes": 3158,
+      "sha256": "15fa6feb271959698a8018a58fa89a083e16b2993d3268b0e312a2b96bd1c2a4"
+    },
+    {
+      "path": "paired/models/Skillful BJ male.rbxm",
+      "bytes": 3244,
+      "sha256": "18b7a607061068060f05b24b423105f7a941f20d3dc3bd85669b2466dd8cd503"
+    },
+    {
+      "path": "r6-figure/animations.json",
+      "bytes": 3288883,
+      "sha256": "69ae3a3edb9f38efb51aec282a00fd5d25247efc3e4f2c6d99b3c5749110822c"
+    },
+    {
+      "path": "r6-figure/pairs.json",
+      "bytes": 4244,
+      "sha256": "489b58a219412d7301802ea72eeca97595d9819eb041d7ffc5a907db0087397f"
+    }
+  ]
+}
